@@ -1,0 +1,29 @@
+[
+  {
+    "id": "classic-vanilla",
+    "name": "Classic Vanilla Celebration Cake",
+    "description": "Vanilla sponge layered with silky vanilla buttercream and finished with seasonal decorations.",
+    "servings": 12,
+    "priceCents": 6500,
+    "flavors": ["vanilla", "buttercream"],
+    "featured": true
+  },
+  {
+    "id": "chocolate-ganache",
+    "name": "Chocolate Ganache Cake",
+    "description": "Rich chocolate cake with dark chocolate ganache and a smooth cocoa buttercream finish.",
+    "servings": 14,
+    "priceCents": 7800,
+    "flavors": ["chocolate", "ganache"],
+    "featured": true
+  },
+  {
+    "id": "lemon-berry",
+    "name": "Lemon Berry Cake",
+    "description": "Bright lemon sponge paired with mixed berry compote and lemon cream cheese frosting.",
+    "servings": 10,
+    "priceCents": 7000,
+    "flavors": ["lemon", "berry", "cream cheese"],
+    "featured": false
+  }
+]
