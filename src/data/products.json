@@ -1,0 +1,173 @@
+[
+  {
+    "id": "signature-chocolate-cake",
+    "name": "Signature Chocolate Cake",
+    "description": "Rich chocolate celebration cake with smooth frosting and custom finishing.",
+    "category": "Celebration Cakes",
+    "price": 75,
+    "image": "images/cake6.jpg",
+    "flavours": [
+      "Chocolate",
+      "Vanilla"
+    ],
+    "size": "8 inch",
+    "featured": true
+  },
+  {
+    "id": "classic-vanilla-cake",
+    "name": "Classic Vanilla Cake",
+    "description": "Soft vanilla sponge layered with buttercream for birthdays and events.",
+    "category": "Celebration Cakes",
+    "price": 65,
+    "image": "images/cake.jpg.jpeg",
+    "flavours": [
+      "Vanilla",
+      "Buttercream"
+    ],
+    "size": "8 inch",
+    "featured": true
+  },
+  {
+    "id": "strawberry-cream-cake",
+    "name": "Strawberry Cream Cake",
+    "description": "Light sponge cake with strawberry cream and decorative finishing.",
+    "category": "Fruit Cakes",
+    "price": 70,
+    "image": "images/cake2.jpeg",
+    "flavours": [
+      "Strawberry",
+      "Vanilla"
+    ],
+    "size": "8 inch",
+    "featured": false
+  },
+  {
+    "id": "red-velvet-cake",
+    "name": "Red Velvet Cake",
+    "description": "Red velvet cake with cream cheese frosting and elegant decoration.",
+    "category": "Specialty Cakes",
+    "price": 80,
+    "image": "images/cake3.jpeg",
+    "flavours": [
+      "Red Velvet",
+      "Cream Cheese"
+    ],
+    "size": "8 inch",
+    "featured": true
+  },
+  {
+    "id": "custom-birthday-cake",
+    "name": "Custom Birthday Cake",
+    "description": "Personalized birthday cake made for your theme, colours, and message.",
+    "category": "Custom Cakes",
+    "price": 90,
+    "image": "images/cake4.jpeg",
+    "flavours": [
+      "Vanilla",
+      "Chocolate",
+      "Strawberry"
+    ],
+    "size": "10 inch",
+    "featured": false
+  },
+  {
+    "id": "wedding-cake",
+    "name": "Wedding Cake",
+    "description": "Elegant tiered cake for weddings, anniversaries, and formal events.",
+    "category": "Wedding Cakes",
+    "price": 180,
+    "image": "images/cake5.jpg",
+    "flavours": [
+      "Vanilla",
+      "Chocolate",
+      "Red Velvet"
+    ],
+    "size": "2 tier",
+    "featured": true
+  },
+  {
+    "id": "cupcake-box",
+    "name": "Cupcake Box",
+    "description": "Assorted cupcakes with buttercream swirls and decorative toppings.",
+    "category": "Cupcakes",
+    "price": 35,
+    "image": "images/1.jpg",
+    "flavours": [
+      "Vanilla",
+      "Chocolate"
+    ],
+    "size": "12 pieces",
+    "featured": false
+  },
+  {
+    "id": "mini-cake-box",
+    "name": "Mini Cake Box",
+    "description": "Small cakes for gifting, tastings, and intimate celebrations.",
+    "category": "Mini Cakes",
+    "price": 45,
+    "image": "images/2.jpg",
+    "flavours": [
+      "Vanilla",
+      "Strawberry",
+      "Chocolate"
+    ],
+    "size": "6 pieces",
+    "featured": false
+  },
+  {
+    "id": "dessert-tray",
+    "name": "Dessert Tray",
+    "description": "Mixed dessert tray for parties and dessert tables.",
+    "category": "Desserts",
+    "price": 55,
+    "image": "images/3.jpg",
+    "flavours": [
+      "Assorted"
+    ],
+    "size": "Medium tray",
+    "featured": false
+  },
+  {
+    "id": "party-cake",
+    "name": "Party Cake",
+    "description": "Large party cake designed for gatherings and milestone events.",
+    "category": "Party Cakes",
+    "price": 120,
+    "image": "images/4.jpg",
+    "flavours": [
+      "Chocolate",
+      "Vanilla"
+    ],
+    "size": "12 inch",
+    "featured": true
+  },
+  {
+    "id": "buttercream-cake",
+    "name": "Buttercream Cake",
+    "description": "Smooth buttercream cake with clean styling and fresh decoration.",
+    "category": "Celebration Cakes",
+    "price": 68,
+    "image": "images/5.jpg",
+    "flavours": [
+      "Vanilla",
+      "Buttercream"
+    ],
+    "size": "8 inch",
+    "featured": false
+  },
+  {
+    "id": "custom-event-cake",
+    "name": "Custom Event Cake",
+    "description": "Made-to-order event cake tailored to your occasion and theme.",
+    "category": "Custom Cakes",
+    "price": 150,
+    "image": "images/6.jpg",
+    "flavours": [
+      "Chocolate",
+      "Vanilla",
+      "Red Velvet"
+    ],
+    "size": "Custom",
+    "featured": true
+  }
+]
